@@ -1,11 +1,11 @@
 # Site settings
 author: William Zimmerman
-title: 
+title: William Zimmerman's Blog
 header-img: img/home-bg.png
-email: william.a.zimmerman@gmail.com
+email: william.a.zimmerman+learn@gmail.com
 copyright_name: William Zimmerman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My coding blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wazimmerman
